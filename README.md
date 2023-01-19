@@ -1,14 +1,14 @@
 # stykes1.github.io
-atls web 2200
+# Atlas Web2200 Spring 2023
 
-<h3>Projects<h3/>
-<p>
+### Projects
+
  - HTLM
  - CSS
  - JS
- <p/>
-<h3>In-Class Assignments<h3/>
-<p>
+
+### In-Class Assignments
+
  - ICA1
  - ICA2
  - ICA3
@@ -24,9 +24,9 @@ atls web 2200
  - ICA13
  - ICA14
  - ICA15
-<p/>
-<h3>Weekly Assignment<h3/>
-<p>
+
+### Weekly Assignment
+
  - WA1
  - WA2
  - WA3
@@ -42,4 +42,4 @@ atls web 2200
  - WA13
  - WA14
  - WA15
- <p/>
+
