@@ -1,13 +1,13 @@
 # stykes1.github.io
 atls web 2200
 
-Projects
+<h3>Projects<h3/>
 
  - HTLM
  - CSS
  - JS
  
-In-Class Assignments
+<h3>In-Class Assignments<h3/>
 
  - ICA1
  - ICA2
@@ -25,7 +25,7 @@ In-Class Assignments
  - ICA14
  - ICA15
 
-Weekly Assignment
+<h3>Weekly Assignment<h3/>
 
  - WA1
  - WA2
