@@ -9,7 +9,7 @@
 
 ### In-Class Assignments
 
- - ICA1
+ - [ICA1](https://github.com/Stykes1/stykes1.github.io/blob/main/ica/ica1/ICA1%20--%20How%20to%20Search%20Goren.pdf)
  - ICA2
  - ICA3
  - ICA4
