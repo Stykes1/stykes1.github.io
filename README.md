@@ -27,7 +27,7 @@
 
 ### Weekly Assignment
 
- - WA1
+ - WA1 <a href="https://stykes1.github.io/wa/wa1.html">Link<a/>
  - WA2
  - WA3
  - WA4
