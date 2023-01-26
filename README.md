@@ -10,7 +10,7 @@
 ### In-Class Assignments
 
  - [ICA1](https://github.com/Stykes1/stykes1.github.io/blob/main/ica/ica1/ICA1%20--%20How%20to%20Search%20Goren.pdf)
- - ICA2
+ - [ICA2](ica/ica2/ICA2--ExploringDirectoryStructures(Week%202).pdf)
  - ICA3
  - ICA4
  - ICA5
@@ -28,7 +28,7 @@
 ### Weekly Assignment
 
  - [WA1](https://stykes1.github.io/wa/wa1.html)
- - WA2
+ - [WA2](wa/wa2.html)
  - WA3
  - WA4
  - WA5
