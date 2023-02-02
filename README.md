@@ -11,7 +11,7 @@
 
  - [ICA1](https://github.com/Stykes1/stykes1.github.io/blob/main/ica/ica1/ICA1%20--%20How%20to%20Search%20Goren.pdf)
  - [ICA2](ica/ica2/ICA2--ExploringDirectoryStructures(Week%202).pdf)
- - ICA3
+ - ICA3 [ICA3A](https://stykes1.github.io/ica/ica3/ica3a.html) [ICA3B](https://stykes1.github.io/ica/ica3-part2/ica3b.html)
  - ICA4
  - ICA5
  - ICA6
