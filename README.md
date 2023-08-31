@@ -1,6 +1,6 @@
 # stykes1.github.io
 
- # Atlas Web2200 Spring 2023
+## Atlas Web2200 Spring 2023
  Hi I'm Chasen Goren a Computer Science Major and this is my repo for Atlas 2200
 
 ### Projects
@@ -11,7 +11,7 @@
 
 ### In-Class Assignments
 
- - ICA1
+ - [ICA1](C:\Users\StykesLaptop\Documents\GitHub\stykes1.github.io\ica\Chasen Goren ICA1 -- How to Search.pdf)
  - ICA2
  - ICA3
  - ICA4
