@@ -11,7 +11,7 @@
 
 ### In-Class Assignments
 
- - [ICA1](ica\ChasenGorenICA1--HowtoSearch.pdf)
+ - [ICA1](https://github.com/Stykes1/stykes1.github.io/blob/main/ica/ChasenGorenICA1--HowtoSearch.pdf)
  - ICA2
  - ICA3
  - ICA4
