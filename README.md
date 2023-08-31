@@ -1,6 +1,6 @@
 # stykes1.github.io
 
- #Atlas Web2200 Spring 2023
+ # Atlas Web2200 Spring 2023
  Hi I'm Chasen Goren a Computer Science Major and this is my repo for Atlas 2200
 
 ### Projects
