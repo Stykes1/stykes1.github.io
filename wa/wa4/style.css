@@ -72,6 +72,8 @@ p, h2{
 
 
 
+/* mycard is for replicating the business card for myself */
+/* Changed the color, font and image of the card itself */
 .mycard {
     width: 35em;
     height: 22em;
