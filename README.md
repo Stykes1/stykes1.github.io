@@ -13,10 +13,10 @@
 
  - [ICA1](https://github.com/Stykes1/stykes1.github.io/blob/main/ica/ChasenGorenICA1--HowtoSearch.pdf)
  - ICA2
- - ICA3
- - ICA4
+ - [ICA3a](/ica/ica3a/) [ICA3B](/ica/ica3-part2/ica3b.html)
+ - [ICA4](/ica/ica4.html)
  - ICA5
- - ICA6
+ - [ICA6](/ica/ica6/ica6.html)
  - ICA7
  - ICA8
  - ICA9
@@ -30,9 +30,9 @@
 ### Weekly Assignment
 
  - [WA1](https://stykes1.github.io/wa/wa1.html)
- - WA2
- - WA3
- - WA4
+ - [WA2](/wa/wa2.html)
+ - [WA3](/wa/wa3.html)
+ - [WA4](/wa/wa4/wa4.html)
  - WA5
  - WA6
  - WA7
