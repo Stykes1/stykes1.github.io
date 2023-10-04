@@ -38,7 +38,7 @@ h1 {
   text-shadow: 1px 1px 1px black;
 
   background-image: url("logo.png");
-  filter: drop-shadow(1mm 1mm 2mm rgba(0, 0, 0, 0.459))
+  filter: drop-shadow(1mm 1mm 2mm rgba(0, 0, 0, 0.459));
 }
 
 /* Your CSS below here */
@@ -49,7 +49,7 @@ article{
   background: url("top-image.png") no-repeat local,
   url("bottom-image.png") no-repeat 0 100% local, linear-gradient(to bottom, rgba(255, 238, 238, .9), white 20%, white 80%, rgba(255, 238, 238, 0.1));
 
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.062);
   border-top: 1mm solid rgb(134, 0, 0);
   border-bottom: 1mm solid rgb(134, 0, 0);
 }
