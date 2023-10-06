@@ -10,34 +10,39 @@
 .score{
     position: absolute;
     color: white;
-    font-size: 20px;
+    font-size: 40px;
     bottom: 20px;
     left: 20px;
 
     background: linear-gradient(to bottom, orange 50%, rgb(0, 0, 160) 50%);
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
     opacity: 90%;
     border-radius: 10%;
 }
 
 .stats{
     position: absolute;
+    font-size: 20px;
     bottom: 20px;
     right: 40px;
     color: white;
     background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    opacity: 90%;
+    border-radius: 5%;
 }
 
 .inning{
-    position: absolute;
-    bottom: 20px;
-    right: 40px;
+    position: relative;
     color: white;
-    background-color: rgba(65, 64, 64, 0.685);
+    background-color: rgb(65, 64, 64);
     border-radius: 10%;
     padding-left: 5px;
     padding-right: 5px;
+    margin: auto;
 }
 
 .arrow-up {
@@ -48,7 +53,8 @@
     
     border-bottom: 10px solid rgb(0, 0, 0);
 
-    padding-top: 2px;
+    padding-top: 5px;
+    margin: auto;
 }
 
 .arrow-down {
@@ -59,5 +65,6 @@
     
     border-top: 10px solid rgb(255, 255, 255);
 
-    padding-bottom: 2px;
+    padding-bottom: 5px;
+    margin: auto;
 }
