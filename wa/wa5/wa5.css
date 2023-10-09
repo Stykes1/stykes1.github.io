@@ -19,7 +19,14 @@
     padding-right: 10px;
     opacity: 90%;
     border-radius: 10%;
+
 }
+
+.score img {
+    height: 50px;
+    width: auto;
+}
+
 
 .stats{
     position: absolute;
@@ -33,7 +40,9 @@
     padding-top: 10px;
     opacity: 90%;
     border-radius: 5%;
+
 }
+
 
 .inning{
     position: relative;
