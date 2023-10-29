@@ -26,6 +26,10 @@ body {
     padding: 20px;
 }
 
+.container{
+    display:flex;
+}
+
 .leftbox{
     display:flex;
     flex-direction: column;
@@ -55,26 +59,38 @@ body {
 
 .infobox:hover{
     transform: scale(1.1);
-    animation-duration: 2s;
     /* background-color: rgb(255, 197, 127); */
 }
 
 @media only screen and (max-width: 400px){
+    .container{
+        display:flex;
+        flex-direction: column;
+        width: 80vw;
+        float:center;
+    }
     .leftbox{
         display:flex;
         flex-direction: column;
-        border: 1px solid grey;
-        width: 100vw;
-        float: left;
+        float: center;
         margin: auto;
     }
 
     .rightbox{
         display:flex;
         flex-direction: column;
-        border: 1px solid grey;
-        width: 100vw;
-        float: left;
+        float: center;
         margin:auto;
+    }
+
+    .infobox{
+        border: 10px solid rgb(0, 0, 0);
+        margin-left: 10px;
+        margin-right: 10px;
+        transition-duration: 1s;
+        background-color: bisque;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 25px;
     }
 }
