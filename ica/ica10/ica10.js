@@ -1,14 +1,14 @@
 const button = document.querySelector("button");
 
-button.addEventListener("click", changeColor);
+button.addEventListener("click", changeTree);
 
 button.addEventListener("click", shrink);
 
 button.addEventListener("click", growBig);
 
-function changeColor() {
-    var btn1 = document.getElementById("head1");
-    head1.style.color = "grey";
+function changeTree() {
+    var image = document.getElementById("grow");
+    image.src="ica\ica10\tree.jpg";
 }
 
 function growBig(){
@@ -18,5 +18,5 @@ function growBig(){
 
 function shrink(){
     var name = document.getElementById("alice");
-    name.style.fontSize = "2px";
+    name.style.fontSize = "5px";
 }
