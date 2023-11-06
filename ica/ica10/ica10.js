@@ -1,22 +1,21 @@
-const button = document.querySelector("button");
+// const btn1 = document.getElementById("tree");
+// const btn2 = document.getElementById("grow");
+// const btn3 = document.getElementById("shrink");
 
-button.addEventListener("click", changeTree);
+document.getElementById("tree").addEventListener('click', changeTree);
 
-button.addEventListener("click", shrink);
+document.getElementById("grow").addEventListener('click', growBig);
 
-button.addEventListener("click", growBig);
+document.getElementById("shrink").addEventListener('click', shrink);
 
 function changeTree() {
-    var image = document.getElementById("grow");
-    image.src="ica\ica10\tree.jpg";
+    document.getElementById("grow").src="ica\ica10\tree.jpg";
 }
 
-function growBig(){
-    var name = document.getElementById("alice");
-    name.style.fontSize = "100px";
+function growBig() {
+    document.getElementById("alice").style.fontSize = "100px";
 }
 
-function shrink(){
-    var name = document.getElementById("alice");
-    name.style.fontSize = "5px";
+function shrink() {
+    document.getElementById("alice").style.fontSize = "5px";
 }
