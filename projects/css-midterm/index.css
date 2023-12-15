@@ -103,7 +103,7 @@ ul{
         padding: 25px;
     }
 
-    .infobox .sum{
+    .infobox .sum{  
         display: none;
         transition-duration: 2s;
         text-size-adjust: 20vw;
