@@ -1,0 +1,29 @@
+html {
+    font-family: sans-serif;
+    background-color: antiquewhite;
+    display: flex;
+    color: rgb(41, 41, 41);
+}
+
+body{
+    text-align: center;
+    align-items: center;
+    margin:auto;
+}
+
+.bigFiles{
+    flex-direction: column;
+    flex-flow: column wrap;
+}
+
+#lockIn {
+    padding: 15px 30px;
+}
+
+#lockIn:hover{
+    background-color: rgba(0, 0, 0, 0.082);
+}
+
+#phoneNumber {
+    font-size: 120px;
+}

@@ -1,0 +1,126 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(58, 58, 58);
+    background-image: url("background.png"), repeating-linear-gradient(rgb(58, 58, 58), bisque);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+.header{
+    color: bisque;
+    margin-left: 15px;
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 100px;
+    margin-top: 100px;
+} 
+
+.header hr{
+    width: 45vw;
+    border: 2px dotted bisque;
+}
+
+.header p{
+    font-size: larger;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container{
+    display:flex;
+    float:center;
+}
+
+.leftbox{
+    display:flex;
+    flex-direction: column;
+    width: 47vw;
+    float: left;
+    margin: auto;
+}
+
+.rightbox{
+    display:flex;
+    flex-direction: column;
+    width: 50vw;
+    float: right;
+    margin:auto;
+}
+
+.infobox{
+    border: 10px solid rgb(0, 0, 0);
+    margin-left: 10px;
+    margin-right: 10px;
+    transition-duration: 1s;
+    background-color: bisque;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 25px;
+}
+
+.infobox:hover{
+    transform: scale(1.05);
+    /* background-color: rgb(255, 197, 127); */
+}
+
+@media only screen and (max-width: 600px){
+    .container{
+        display:flex;
+        flex-direction: column;
+        width: 80vw;
+        float: center;
+    }
+    .leftbox{
+        display:flex;
+        flex-direction: column;
+        float: center;
+        width: 90vw;
+    }
+
+    .rightbox{
+        display:flex;
+        flex-direction: column;
+        float: left;
+        width: 90vw;
+    }
+
+    .infobox{
+        border: 10px solid rgb(0, 0, 0);
+        margin-left: 10px;
+        margin-right: 10px;
+        transition-duration: 1s;
+        background-color: bisque;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 25px;
+    }
+
+    .infobox .sum{  
+        display: none;
+        transition-duration: 2s;
+        text-size-adjust: 20vw;
+    }
+
+    /* .infobox:hover h2, h3, p {
+        display: none;
+    } */
+
+    .infobox:hover .sum, .infobox:active .sum{
+        display: contents;
+    }
+
+    body {
+        background-color: rgb(58, 58, 58);
+        background-image: url("background.png"), repeating-linear-gradient(rgb(58, 58, 58), bisque);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
