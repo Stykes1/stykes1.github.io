@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brett</title>
+    <style>
+        #myImage {
+            display: none; /* Hide the image by default */
+        }
+    </style>
+    </head>
+    <body>
+    
+    <button onclick="toggleImage()">Show Image</button>
+    
+    <img id="myImage" src="image.png" alt="My Image">
+    
+    <script>
+        function toggleImage() {
+            var img = document.getElementById("myImage");
+            if (img.style.display === "none") {
+                img.style.display = "block"; // Show the image
+            } else {
+                img.style.display = "none"; // Hide the image
+            }
+        }
+    </script>
+    
+    </body>
+</html>
